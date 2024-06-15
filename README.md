@@ -1,4 +1,5 @@
-# **Harmonia Ecológica: Modelagem do Sistema Trifásico Lotka-Voterra com Lobos, Coelhos e Castores**
+# **Harmonia Ecológica: Modelagem do Sistema Trifásico Lotka-Vol
+terra com Lobos, Coelhos e Castores**
 
 Grupo 3-
 
